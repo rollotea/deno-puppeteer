@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "puppeteer": "npm:puppeteer@^24.43.1"
+  }
+}
