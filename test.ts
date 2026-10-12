@@ -4,7 +4,7 @@ import puppeteer, { Page, Puppeteer, Browser, executablePath } from "puppeteer";
 
 
 const browser = await puppeteer.launch({
-  executablePath: "/C:/Users/rollo/Documents/Renkin-v2/assets/chrome-win64",
+  executablePath: "D:/deno-puppeteer/chrome-win64/chrome.exe",
   headless: "new",
   args: [
     "--no-sandbox",
